@@ -13,6 +13,12 @@ numpy 1.17.2
 
 pandas 0.25.1
 
+Jupyter notebook
 
+# Dataset
+Downloaded the Daivs-uniq, kiba-uniq and BindingDB-uniq from the following  link
+http://iilab.hit.edu.cn/dtadata/ElectraDTA/dataset/
 
+# Run code
 
+Open MGDTA.ipynb and run 
