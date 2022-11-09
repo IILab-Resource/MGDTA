@@ -13,7 +13,7 @@ sp_prot.Load("protein_sent_token.model")
  
     
 sp_smi = spm.SentencePieceProcessor()
-sp_smi.Load("/home/junjie/TransformerDTA/chembel_smi_sent_token.model")
+sp_smi.Load("smi_sent_token.model")
 # sp_smi.Load("smi_sent_token.model")
 
 
