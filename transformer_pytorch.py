@@ -4,7 +4,6 @@ import torch.nn.functional as F
 import numpy as np
 import math
 from torch.autograd import Variable
-from cap_layers import PrimaryCaps, FCCaps, FlattenCaps,CapsNet_Text
 # from transformers.modeling_transfo_xl import PositionalEmbedding
 from entmax import Entmax15, EntmaxBisect
 from functools import partial
